@@ -1,101 +1,94 @@
-# Olá, somos a DAS 👋
+# DAS 👋
 ### Desenvolvimento, Aplicações e Soluções
 
-💻 **Desenvolvimento de sites, sistemas e soluções digitais sob medida**
-🇧🇷 Brasil
+**Sites e sistemas sob medida para pequenos negócios.**
 
-A **DAS** é um estúdio independente de desenvolvimento de software. Trabalhamos para transformar ideias em soluções digitais que funcionam de verdade e fazem sentido pro negócio de cada cliente.
+A DAS é uma iniciativa independente de desenvolvimento de software, criada por [Daniel Augusto Silva](https://www.linkedin.com/in/daniel-augusto-silva/).
 
-Desenvolvemos **sites, páginas de divulgação, sistemas web e aplicações personalizadas**, sempre com atenção à organização do projeto, à experiência do usuário e à manutenção do código no longo prazo.
+Cada projeto começa com uma conversa sobre o que o negócio precisa. A partir disso, definimos as funcionalidades e acompanhamos o desenvolvimento, os testes e a publicação.
 
-O atendimento é direto e acompanhamos cada projeto do planejamento até a entrega.
+Neste perfil, você encontra nossos projetos comerciais, documentação técnica e demonstrações das soluções.
 
----
+## Projetos
 
-## 🚀 Nossos serviços
+### Stockflow — Gestão comercial e ponto de venda
 
-* 🌐 Criação de sites institucionais e profissionais
-* 📱 Desenvolvimento de sites responsivos para computadores e celulares
-* 🎯 Criação de landing pages para produtos, serviços e campanhas
-* 💻 Desenvolvimento de sistemas e aplicações personalizadas
-* 🔐 Sistemas de login, autenticação e gerenciamento de usuários
-* 📊 Painéis administrativos e gerenciamento de informações
-* 🛒 Soluções para negócios, delivery, atendimento e prestação de serviços
-* ☁️ Integração com bancos de dados e serviços em nuvem
-* 🔧 Manutenção, melhorias e atualização de projetos existentes
-* 🗺️ Desenvolvimento de soluções específicas, como sistemas de mapeamento e gestão
+O Stockflow começou com uma necessidade de uma pequena loja de armarinhos: encontrar um sistema de PDV que fizesse sentido para o tamanho do negócio.
 
----
+O projeto reúne estoque, preços, vendas e informações de notas fiscais em uma aplicação desktop para Windows, com regras de negócio e permissões validadas no servidor.
 
-## 🧠 Como trabalhamos
+**Tecnologias:** Next.js, React, TypeScript, PostgreSQL/Supabase e Electron.
 
-Cada projeto é desenvolvido de acordo com os objetivos e necessidades do cliente.
+O projeto conta com testes automatizados em Vitest e Playwright e verificações de código, build e testes no GitHub Actions.
 
-* Entendimento da ideia e das necessidades do negócio
-* Planejamento das funcionalidades e da estrutura do projeto
-* Desenvolvimento com foco em organização e desempenho
-* Testes e ajustes antes da entrega
-* Comunicação direta durante todo o processo
-* Suporte para melhorias e evolução da solução
+O código de produção é privado. O repositório de portfólio apresenta a arquitetura, decisões técnicas e capturas de tela.
 
----
+[Conhecer o Stockflow](https://github.com/dashqtech/stockflow-pdv)
 
-## 🛠️ Tecnologias
+### Nubio Tech — Site institucional
 
-### Desenvolvimento Web
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge\&logo=javascript\&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge\&logo=greensock\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+Site institucional com apresentação da empresa e calculadora interativa de ROI.
 
-### Desenvolvimento de Software
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+O conteúdo foi organizado em arquivos JSON, separado dos componentes da interface para facilitar a manutenção. O trabalho também incluiu configuração de domínio, DNS, hospedagem e cabeçalhos de segurança.
 
-### Banco de Dados e Hospedagem
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+**Tecnologias:** React, Vite, Tailwind CSS, GSAP e Cloudflare.
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge\&logo=electron\&logoColor=white)
+[Visitar o site](https://nubiotech.com.br)
 
----
+## O que fazemos
 
-## ✨ Por que escolher a DAS?
+- Sites institucionais e landing pages.
+- Interfaces adaptadas para computadores e celulares.
+- Sistemas de gestão e aplicações personalizadas.
+- Integração com bancos de dados e serviços em nuvem.
+- Configuração de domínio, DNS e hospedagem.
+- Manutenção e evolução de projetos, conforme o escopo combinado.
 
-* Foco em funcionalidade, desempenho e experiência do usuário
-* Código organizado e preparado para futuras melhorias
-* Compromisso com prazos e qualidade na entrega
+## Como trabalhamos
 
----
+1. **Entendemos o problema:** conversamos sobre as necessidades do negócio e de quem vai usar a solução.
+2. **Definimos o escopo:** organizamos funcionalidades, prioridades e etapas da entrega.
+3. **Desenvolvemos e acompanhamos:** utilizamos ferramentas como Claude Code e Codex para apoiar a implementação.
+4. **Testamos e ajustamos:** verificamos os fluxos de uso e acompanhamos as correções.
+5. **Preparamos a entrega:** configuramos a publicação ou distribuição e documentamos o necessário para continuidade do projeto.
 
-## 💡 Nossa filosofia
+Prazos, suporte e melhorias futuras são definidos de acordo com cada projeto.
 
-> *"Escrevemos código pensando em quem vai usar: sistemas que resolvem um problema real e ajudam o negócio do cliente a funcionar melhor."*
+## Tecnologias utilizadas
 
----
+### Web e interfaces
 
-## 🌐 Entre em contato
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Tem uma ideia ou precisa de uma solução digital para o seu negócio?
+### Dados e distribuição
 
-📧 **E-mail:** das.hq.tech@gmail.com
-💻 **GitHub:** [github.com/danidds07](https://github.com/danidds07)
-🔗 **LinkedIn:** [Daniel Augusto Silva](https://www.linkedin.com/in/daniel-augusto-silva/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
+
+### Versionamento e testes
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+
+As tecnologias são escolhidas conforme as necessidades de cada aplicação. Os repositórios documentam o que foi utilizado em cada projeto.
+
+## Contato
+
+Tem uma ideia ou uma tarefa do seu negócio que poderia ser simplificada com software?
+
+- **E-mail:** [das.hq.tech@gmail.com](mailto:das.hq.tech@gmail.com)
+- **GitHub:** [dashqtech](https://github.com/dashqtech)
+- **LinkedIn:** [Daniel Augusto Silva](https://www.linkedin.com/in/daniel-augusto-silva/)
 
 ---
 
-🚀 **DAS — Desenvolvimento, Aplicações e Soluções**
-*Código bem pensado. Soluções que funcionam.*
+**DAS — Desenvolvimento, Aplicações e Soluções**
