@@ -1,4 +1,4 @@
-# DAS 👋
+# DASHQ TECH 👋
 ### Desenvolvimento, Aplicações e Soluções
 
 **Sites e sistemas sob medida para pequenos negócios.**
